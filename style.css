@@ -1,0 +1,19 @@
+.social{
+    background-color: #fff;
+}
+
+.social-links ul{
+    flex-direction: row;
+    display: block;
+   
+}
+
+li{
+    float: right;
+    list-style-type: none;
+    margin-left: 20px;
+    border: 2px solid #EBEBFF;
+    background-color: #EBEBFF;
+    font-family: "poppins", sans-serif;
+    
+}
