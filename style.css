@@ -1,0 +1,13 @@
+
+ul{
+    display: block;
+}
+
+li{
+    float: right;
+    list-style-type: none;
+    margin-left: 20px;
+    border: 2px solid #EBEBFF;
+    background-color: #EBEBFF;
+    font-family: "poppins", sans-serif;
+}
