@@ -8,6 +8,8 @@ li{
     list-style-type: none;
     margin-left: 20px;
     border: 2px solid #EBEBFF;
+    border-radius: 10px;
     background-color: #EBEBFF;
     font-family: "poppins", sans-serif;
+    padding: 5px;
 }
